@@ -3,13 +3,15 @@
 <h1>Welcome to the South Carolina Critical Infrastructure Cybersecurity Tools repository!</h1>
 <p>This repository is intended to provide participants with a curated list of resources related to cybersecurity tools across different categories.</p>
 <h2>Categories</h2>
-<h3>DFIR Tools</h3>
 <p>Digital Forensics and Incident Response (DFIR) tools are used to analyze digital evidence and investigate security incidents. This category contains links to various DFIR tools, including:</p>
 <ul>
   <li><a href="https://www.autopsy.com/download/">Autopsy</a> - An open-source digital forensics platform that allows you to recover deleted files, look for evidence, and tag & document what you’ve found for other investigators.</li>
   <li><a href="https://www.volatilityfoundation.org/">Volatility</a> - A free, open-source memory forensics framework for incident response and malware analysis.</li>
   <li><a href="https://www.guidancesoftware.com/encase-forensic">EnCase</a> - A digital forensics software that provides the ability to conduct speedy and efficient investigations on various digital devices.</li>
   <li><a href="https://www.sleuthkit.org/">The Sleuth Kit</a> - A collection of command-line tools for digital investigation and analysis.</li>
+  <li><a href="https://www.openedr.com/chainsaw.html">Chainsaw</a> - A Windows event log parsing tool that allows you to view and analyze logs to troubleshoot issues, identify security incidents, and audit activity on your network.</li>
+  <li><a href="https://osquery.io/">Osquery</a> - An open-source endpoint security tool that uses SQL-like queries to gather operating system and process information.</li>
+  <li><a href="https://www.velocidex.com/">Velociraptor</a> - An open-source endpoint visibility and digital forensics platform that allows you to collect and analyze data from remote endpoints in real-time.</li>
 </ul>
 <h3>Red Team Tools</h3>
 <p>Red team tools are used to simulate attacks on an organization in order to identify vulnerabilities and improve security defenses. This category contains links to various red team tools, including:</p>
@@ -41,3 +43,9 @@
 <ul>
   
   <li><a href="https://gchq.github.io/CyberChef/(https://icyberchef.com/)">CyberChef</a> - A powerful web application that can perform many operations, including deobfuscation, decryption, and encoding. It provides a graphical interface for building complex data processing pipelines and supports a wide range of formats, making it a useful tool for reverse engineering obfuscated code.</li>
+  <br><br><br>
+  <h3>Disclaimer</h3>
+<p>The South Carolina Critical Infrastructure Cybersecurity Tools repository is a collection of publicly available resources related to cybersecurity tools across various categories. The repository is intended to provide a starting point for individuals and organizations seeking to improve their cybersecurity posture.</p>
+<p>Please note that the inclusion of any tool or resource in this repository does not imply endorsement or recommendation by our team here at SC CIC. Users are responsible for conducting their own due diligence and assessing the suitability and appropriateness of any tool or resource for their specific needs and use cases.</p>
+<p>Furthermore, please be aware that cybersecurity threats and risks are constantly evolving, and the effectiveness of any tool or resource may vary depending on the specific context and circumstances in which it is used. SC CIC disclaims any liability or responsibility for any damages or losses that may arise from the use or misuse of any tool or resource listed in this repository.</p>
+<p>By using any tool or resource listed in this repository, users agree to assume all risks and liabilities associated with their use and to comply with all applicable laws, regulations, and best practices for their organization.</p>
