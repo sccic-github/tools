@@ -17,7 +17,7 @@
 <ul>
   <li><a href="https://caldera.mitre.org/">Caldera</a> - A platform that allows you to emulate attacks and generate realistic, adversary-like traffic to test and improve your organization's defenses.</li>
   <li><a href="https://atomicredteam.io/">Atomic Red Team</a> - A library of simple tests that security teams can execute to test their defenses and identify gaps.</li>
-  <li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=42419">BloodHound</a> - A tool that allows you to visualize and analyze the trust relationships in Active Directory environments.</li>
+  <li><a href="https://github.com/BloodHoundAD/BloodHound">BloodHound</a> - A tool that allows you to visualize and analyze the trust relationships in Active Directory environments.</li>
   <li><a href="https://www.netspi.com/products-services/penetration-testing-tools/control-compass/">Control Compass</a> - A penetration testing tool that automates the process of identifying security weaknesses and provides actionable guidance for remediation.</li>
   <li><a href="https://github.com/mailslurper/ms-mailsniper">Mail Sniper</a> - A penetration testing tool designed for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.) and downloading the found attachments.</li>
   <li><a href="https://github.com/DefectDojo/django-DefectDojo">DefectDojo</a> - An open-source vulnerability management tool that streamlines the testing process by offering features such as automated scheduling, report generation, and integration with a variety of testing tools.</li>
