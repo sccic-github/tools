@@ -43,7 +43,7 @@
 <p>Deobfuscation tools are used to reverse engineer code that has been intentionally obfuscated in order to conceal its purpose or functionality. This category contains links to various deobfuscation tools, including:</p>
 <ul>
   
-  <li><a href="https://gchq.github.io/CyberChef/(https://icyberchef.com/)">CyberChef</a> - A powerful web application that can perform many operations, including deobfuscation, decryption, and encoding. It provides a graphical interface for building complex data processing pipelines and supports a wide range of formats, making it a useful tool for reverse engineering obfuscated code.</li>
+  <li><a href="https://icyberchef.com">CyberChef</a> - A powerful web application that can perform many operations, including deobfuscation, decryption, and encoding. It provides a graphical interface for building complex data processing pipelines and supports a wide range of formats, making it a useful tool for reverse engineering obfuscated code.</li>
   <br><br><br>
   <h3>Disclaimer</h3>
 <p>The South Carolina Critical Infrastructure Cybersecurity Tools repository is a collection of publicly available resources related to cybersecurity tools across various categories. The repository is intended to provide a starting point for individuals and organizations seeking to improve their cybersecurity posture.</p>
