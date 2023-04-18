@@ -1,33 +1,50 @@
 # tools
 
-Welcome to the South Carolina Critical Infrastructure Cybersecurity Tools repository! This repository provides a curated list of resources related to cybersecurity tools across different categories.
+<h1>Welcome to the South Carolina Critical Infrastructure Cybersecurity Tools repository!</h1>
 
-Categories
-DFIR Tools
-Digital Forensics and Incident Response (DFIR) tools are used to analyze digital evidence and investigate security incidents. This category contains links to various DFIR tools, including:
+<p>This repository is intended to provide participants with a curated list of resources related to cybersecurity tools across different categories.</p>
 
-Autopsy - An open-source digital forensics platform that allows you to recover deleted files, look for evidence, and tag & document what you’ve found for other investigators.
-Volatility - A memory forensics framework that allows you to extract digital artifacts from volatile memory (RAM).
-EnCase - A digital forensics tool that allows you to acquire, analyze, and report on digital evidence.
-The Sleuth Kit - A collection of command-line tools for digital forensics analysis.
-Red Team Tools
-Red team tools are used to simulate attacks on an organization in order to identify vulnerabilities and improve security defenses. This category contains links to various red team tools, including:
+<h2>Categories</h2>
 
-Metasploit - A framework for developing, testing, and executing exploits against vulnerable targets.
-Cobalt Strike - A commercial, full-featured penetration testing toolset for red teams and threat emulation.
-Empire - A post-exploitation framework that includes a variety of modules for persistence, reconnaissance, and lateral movement.
-BloodHound - A tool for analyzing Active Directory trust relationships and identifying attack paths.
-Network Scanning Tools
-Network scanning tools are used to identify hosts and services on a network, as well as identify vulnerabilities that may be present. This category contains links to various network scanning tools, including:
+<h3>DFIR Tools</h3>
+<p>Digital Forensics and Incident Response (DFIR) tools are used to analyze digital evidence and investigate security incidents. This category contains links to various DFIR tools, including:</p>
 
-Nmap - A powerful tool for network exploration, administration, and security auditing.
-Nessus - A vulnerability scanner that allows you to identify and prioritize vulnerabilities on your network.
-OpenVAS - An open-source vulnerability scanner and manager that allows you to scan and manage vulnerabilities on your network.
-Angry IP Scanner - A fast and easy-to-use IP address and port scanner.
-OSINT Tools
-Open-Source Intelligence (OSINT) tools are used to gather information from publicly available sources in order to investigate individuals or organizations. This category contains links to various OSINT tools, including:
+<ul>
+  <li><a href="https://www.autopsy.com/download/">Autopsy</a> - An open-source digital forensics platform that allows you to recover deleted files, look for evidence, and tag & document what you’ve found for other investigators.</li>
+  <li><a href="https://www.volatilityfoundation.org/">Volatility</a></li>
+  <li><a href="https://www.guidancesoftware.com/encase-forensic">EnCase</a></li>
+  <li><a href="https://www.sleuthkit.org/">The Sleuth Kit</a></li>
+</ul>
 
-SpiderFoot - A tool for automated OSINT gathering and analysis.
-Maltego - A commercial OSINT and forensics application that allows you to visualize and understand complex relationships between entities.
-Recon-ng - A command-line tool for OSINT gathering and analysis.
-Shodan - A search engine for internet-connected devices that allows you to identify vulnerable systems and services.
+<h3>Red Team Tools</h3>
+<p>Red team tools are used to simulate attacks on an organization in order to identify vulnerabilities and improve security defenses. This category contains links to various red team tools, including:</p>
+
+<ul>
+  <li><a href="https://www.caldera.com/">Caldera</a></li>
+  <li><a href="https://atomicredteam.io/">Atomic Red Team</a></li>
+  <li><a href="https://www.cobaltstrike.com/">Cobalt Strike</a></li>
+  <li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=42419">BloodHound</a></li>
+</ul>
+
+<h3>Network Scanning Tools</h3>
+<p>Network scanning tools are used to identify hosts and services on a network, as well as identify vulnerabilities that may be present. This category contains links to various network scanning tools, including:</p>
+
+<ul>
+  <li><a href="https://nmap.org/">Nmap</a></li>
+  <li><a href="https://www.tenable.com/products/nessus/nessus-professional">Nessus</a></li>
+  <li><a href="https://www.openvas.org/">OpenVAS</a></li>
+  <li><a href="http://angryip.org/">Angry IP Scanner</a></li>
+</ul>
+
+<h3>OSINT Tools</h3>
+<p>Open-Source Intelligence (OSINT) tools are used to gather information from publicly available sources in order to investigate individuals or organizations. This category contains links to various OSINT tools, including:</p>
+
+<ul>
+  <li><a href="https://www.spiderfoot.net/">SpiderFoot</a></li>
+  <li><a href="https://www.maltego.com/">Maltego</a></li>
+  <li><a href="https://bitbucket.org/LaNMaSteR53/recon-ng/src/master/">Recon-ng</a></li>
+  <li><a href="https://www.shodan.io/">Shodan</a></li>
+</ul>
+
+<h3>Encryption Tools</h3>
+<p>Encryption tools are used to secure data by converting it into a form that cannot be easily read by unauthorized parties. This category contains links to various encryption tools, including:</p
