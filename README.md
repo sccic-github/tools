@@ -7,7 +7,6 @@
 <ul>
   <li><a href="https://www.autopsy.com/download/">Autopsy</a> - An open-source digital forensics platform that allows you to recover deleted files, look for evidence, and tag & document what you’ve found for other investigators.</li>
   <li><a href="https://www.volatilityfoundation.org/">Volatility</a> - A free, open-source memory forensics framework for incident response and malware analysis.</li>
-  <li><a href="https://www.guidancesoftware.com/encase-forensic">EnCase</a> - A digital forensics software that provides the ability to conduct speedy and efficient investigations on various digital devices.</li>
   <li><a href="https://www.sleuthkit.org/">The Sleuth Kit</a> - A collection of command-line tools for digital investigation and analysis.</li>
   <li><a href="https://www.openedr.com/chainsaw.html">Chainsaw</a> - A Windows event log parsing tool that allows you to view and analyze logs to troubleshoot issues, identify security incidents, and audit activity on your network.</li>
   <li><a href="https://osquery.io/">Osquery</a> - An open-source endpoint security tool that uses SQL-like queries to gather operating system and process information.</li>
