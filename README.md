@@ -10,7 +10,7 @@
   <li><a href="https://www.sleuthkit.org/">The Sleuth Kit</a> - A collection of command-line tools for digital investigation and analysis.</li>
   <li><a href="https://github.com/WithSecureLabs/chainsaw">Chainsaw</a> - A Windows event log parsing tool that allows you to view and analyze logs to troubleshoot issues, identify security incidents, and audit activity on your network.</li>
   <li><a href="https://osquery.io/">Osquery</a> - An open-source endpoint security tool that uses SQL-like queries to gather operating system and process information.</li>
-  <li><a href="https://www.velocidex.com/">Velociraptor</a> - An open-source endpoint visibility and digital forensics platform that allows you to collect and analyze data from remote endpoints in real-time.</li>
+  <li><a href="https://docs.velociraptor.app/">Velociraptor</a> - An open-source endpoint visibility and digital forensics platform that allows you to collect and analyze data from remote endpoints in real-time.</li>
 </ul>
 <h3>Red Team Tools</h3>
 <p>Red team tools are used to simulate attacks on an organization in order to identify vulnerabilities and improve security defenses. This category contains links to various red team tools, including:</p>
