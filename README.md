@@ -26,7 +26,6 @@
 <p>Network scanning tools are used to identify hosts and services on a network, as well as identify vulnerabilities that may be present. This category contains links to various network scanning tools, including:</p>
 <ul>
   <li><a href="https://nmap.org/">Nmap</a> - A free and open-source network exploration and security auditing tool.</li>
-  <li><a href="https://www.tenable.com/products/nessus/nessus-professional">Nessus</a> - A commercial vulnerability scanner used to detect vulnerabilities, malware, and other security threats on various operating systems, applications, and network devices.</li>
   <li><a href="https://www.openvas.org/">OpenVAS</a> - A free, open-source vulnerability scanner that can detect security issues in hosts and services.</li>
   <li><a href="http://angryip.org/">Angry IP Scanner</a> - A fast and easy-to-use network scanner that allows you to scan IP addresses and ports in any range.</li>
 </ul>
