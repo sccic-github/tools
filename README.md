@@ -22,7 +22,6 @@
 <ul>
   <li><a href="https://www.caldera.com/">Caldera</a></li>
   <li><a href="https://atomicredteam.io/">Atomic Red Team</a></li>
-  <li><a href="https://www.cobaltstrike.com/">Cobalt Strike</a></li>
   <li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=42419">BloodHound</a></li>
 </ul>
 
@@ -46,5 +45,7 @@
   <li><a href="https://www.shodan.io/">Shodan</a></li>
 </ul>
 
-<h3>Encryption Tools</h3>
-<p>Encryption tools are used to secure data by converting it into a form that cannot be easily read by unauthorized parties. This category contains links to various encryption tools, including:</p
+<h3>Deobfuscation Tools</h3>
+<p>Deobfuscation tools are used to reverse engineer code that has been intentionally obfuscated in order to conceal its purpose or functionality. This category contains links to various deobfuscation tools, including:</p>
+<ul>
+  <li><a href="https://gchq.github.io/CyberChef/(https://icyberchef.com/)">CyberChef</a> - A powerful web application that can perform many operations, including deobfuscation, decryption, and encoding. It provides a graphical interface for building complex data processing pipelines and supports a wide range of formats, making it a useful tool for reverse engineering obfuscated code.</li>
