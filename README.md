@@ -45,7 +45,15 @@
 <ul>
   
   <li><a href="https://icyberchef.com">CyberChef</a> - A powerful web application that can perform many operations, including deobfuscation, decryption, and encoding. It provides a graphical interface for building complex data processing pipelines and supports a wide range of formats, making it a useful tool for reverse engineering obfuscated code.</li>
-  <br><br><br>
+</ul>
+<br><br><br>
+
+<h2>Resources</h2>
+<p>This section provides links to various articles that can help you learn more about different aspects of cybersecurity.</p>
+<ul>
+  <li><a href="https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb">Endpoint Isolation with the Windows Firewall</a> </li>
+</ul> 
+<br><br><br>
   <h3>Disclaimer</h3>
 <p>The South Carolina Critical Infrastructure Cybersecurity Tools repository is a collection of publicly available resources related to cybersecurity tools across various categories. The repository is intended to provide a starting point for individuals and organizations seeking to improve their cybersecurity posture.</p>
 <p>Please note that the inclusion of any tool or resource in this repository does not imply endorsement or recommendation by our team here at SC CIC. Users are responsible for conducting their own due diligence and assessing the suitability and appropriateness of any tool or resource for their specific needs and use cases.</p>
