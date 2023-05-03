@@ -1,7 +1,7 @@
 # tools
 
-<h1>Welcome to the South Carolina Critical Infrastructure Cybersecurity Tools repository!</h1>
-<p>This repository is intended to provide participants with a curated list of resources related to cybersecurity tools across different categories.</p>
+<h1>Welcome to the South Carolina Critical Infrastructure Cybersecurity Resources Repository!</h1>
+<p>This repository is intended to provide participants with a curated list of resources related to cybersecurity across different categories.</p>
 <h2>Categories</h2>
 
 <h3>Digital Forensics and Incident Response Tools</h3>
