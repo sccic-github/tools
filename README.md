@@ -3,6 +3,8 @@
 <h1>Welcome to the South Carolina Critical Infrastructure Cybersecurity Tools repository!</h1>
 <p>This repository is intended to provide participants with a curated list of resources related to cybersecurity tools across different categories.</p>
 <h2>Categories</h2>
+
+<h3>Digital Forensics and Incident Response Tools</h3>
 <p>Digital Forensics and Incident Response (DFIR) tools are used to analyze digital evidence and investigate security incidents. This category contains links to various DFIR tools, including:</p>
 <ul>
   <li><a href="https://www.autopsy.com/download/">Autopsy</a> - An open-source digital forensics platform that allows you to recover deleted files, look for evidence, and tag & document what you’ve found for other investigators.</li>
