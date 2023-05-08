@@ -43,8 +43,8 @@
 <h3>Deobfuscation Tools</h3>
 <p>Deobfuscation tools are used to reverse engineer code that has been intentionally obfuscated in order to conceal its purpose or functionality. This category contains links to various deobfuscation tools, including:</p>
 <ul>
-  
   <li><a href="https://icyberchef.com">CyberChef</a> - A powerful web application that can perform many operations, including deobfuscation, decryption, and encoding. It provides a graphical interface for building complex data processing pipelines and supports a wide range of formats, making it a useful tool for reverse engineering obfuscated code.</li>
+  <li><a href="https://github.com/mandiant/flare-floss">FLARE Obfuscated String Solver (FLOSS)</a> - A tool developed by FireEye's FLARE team for automatically recovering obfuscated strings from malware and other binary files. It uses static analysis techniques to identify and decode obfuscated strings, helping analysts understand the behavior and functionality of malicious code.</li>
 </ul>
 <br><br><br>
 
