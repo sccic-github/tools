@@ -1,6 +1,14 @@
 # **Welcome to the South Carolina Critical Infrastructure Cybersecurity Resources Repository!**
-<p>This repository is intended to provide participants with a curated list of resources related to cybersecurity across different categories.</p>
-<h2>Categories</h2>
+
+This repository is intended to provide participants with a curated list of resources related to cybersecurity across different categories.
+
+## **Start.Me**
+
+For easy access to the links use the *start.me* page below:
+
+https://start.me/p/jvnBJQ/startpage
+
+# **Categories**
 
 <h3>Digital Forensics and Incident Response Tools</h3>
 <p>Digital Forensics and Incident Response (DFIR) tools are used to analyze digital evidence and investigate security incidents. This category contains links to various DFIR tools, including:</p>
